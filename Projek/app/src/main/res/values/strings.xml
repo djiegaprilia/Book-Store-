@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Pemesanan Buku</string>
+    <string name="button_not_register">Tidak memiliki akun? <font color='red'>Daftar Sekarang</font></string>
+    <string name="after_register">Sudah memiliki akun? <font color='red'>Login Sekarang</font></string>
+    <string name="batal">Batal</string>
+    <string name="keluar">Keluar</string>
+
+    <string-array name="judul_buku">
+        <item>Buku Ekonomi</item>
+        <item>Bahasa Inggris</item>
+        <item>Buku Fisika</item>
+        <item>Buku Geografi</item>
+        <item>Buku Pelajaran Agama Islam</item>
+        <item>Bahasa Indonesia</item>
+        <item>Buku Matematika</item>
+        <item>Guku Kimia</item>
+        <item>Pendidikan Pancasila dan Kewarganegaraan</item>
+        <item>Buku Biologi</item>
+    </string-array>
+    <string-array name="penulis_buku">
+        <item>Alam S</item>
+        <item>Sarwoko</item>
+        <item>NI Ketut Lasmi</item>
+        <item>Yashinto Sindhu dan Sunaryo</item>
+        <item>H. Muchtar</item>
+        <item>Sobandi</item>
+        <item>Untung Widodo</item>
+        <item>Soedjono</item>
+        <item>Yuyus Kardiman, dkk</item>
+        <item>Khristiyono</item>
+    </string-array>
+    <string-array name="harga_buku">
+        <item>Rp 65.000</item>
+        <item>Rp 88.000</item>
+        <item>Rp 62.000</item>
+        <item>Rp 60.000</item>
+        <item>Rp 87.000</item>
+        <item>Rp 98.000</item>
+        <item>Rp 60.000</item>
+        <item>Rp 60.000</item>
+        <item>Rp 65.000</item>
+        <item>Rp 70.000</item>
+    </string-array>
+    <string-array name="foto_buku">
+        <item>@drawable/ekonomi</item>
+        <item>@drawable/english</item>
+        <item>@drawable/fisika</item>
+        <item>@drawable/geo</item>
+        <item>@drawable/islam</item>
+        <item>@drawable/indo</item>
+        <item>@drawable/mtk</item>
+        <item>@drawable/kimia</item>
+        <item>@drawable/ppkn</item>
+        <item>@drawable/biologi</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+</resources>

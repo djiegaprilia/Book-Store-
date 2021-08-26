@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16.80dp"
+    android:orientation="vertical">
+    <EditText
+        android:id="@+id/enter_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukkan nama Pembeli"
+        android:textColorHint="@color/colorBorder"
+        android:textSize="16.80dp"
+        android:inputType="text"
+        android:background="@drawable/brown_border"
+        android:maxLines="1"
+        android:layout_marginRight="19.20dp"
+        android:layout_marginEnd="19.20dp"
+        android:textColor="@color/colorBlack"
+        android:padding="16.80dp"/>
+    <EditText
+        android:id="@+id/enter_judul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukkan judul Buku"
+        android:textColorHint="@color/colorBorder"
+        android:textSize="16.80dp"
+        android:inputType="text"
+        android:background="@drawable/brown_border"
+        android:maxLines="1"
+        android:layout_marginRight="19.20dp"
+        android:layout_marginEnd="19.20dp"
+        android:textColor="@color/colorBlack"
+        android:padding="16.80dp"/>
+    <EditText
+        android:id="@+id/enter_harga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukkan harga"
+        android:textColorHint="@color/colorBorder"
+        android:textSize="16.80dp"
+        android:inputType="text"
+        android:background="@drawable/brown_border"
+        android:maxLines="1"
+        android:layout_marginRight="19.20dp"
+        android:layout_marginEnd="19.20dp"
+        android:textColor="@color/colorBlack"
+        android:padding="16.80dp"/>
+    <EditText
+        android:id="@+id/enter_alamat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukkan Alamat"
+        android:textColorHint="@color/colorBorder"
+        android:textSize="16.80dp"
+        android:inputType="text"
+        android:background="@drawable/brown_border"
+        android:maxLines="1"
+        android:layout_marginRight="19.20dp"
+        android:layout_marginEnd="19.20dp"
+        android:textColor="@color/colorBlack"
+        android:padding="16.80dp"/>
+    <EditText
+        android:id="@+id/enter_quantity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukkan Jumlah Barang"
+        android:textColorHint="@color/colorBorder"
+        android:textSize="16.80dp"
+        android:inputType="text"
+        android:background="@drawable/brown_border"
+        android:maxLines="1"
+        android:layout_marginRight="19.20dp"
+        android:layout_marginEnd="19.20dp"
+        android:textColor="@color/colorBlack"
+        android:padding="16.80dp"/>
+<!--    <EditText-->
+<!--        android:id="@+id/enter_quantity"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:hint="Enter quantity"-->
+<!--        android:textColorHint="@color/colorBorder"-->
+<!--        android:textSize="33.60dp"-->
+<!--        android:inputType="number"-->
+<!--        android:background="@drawable/brown_border"-->
+<!--        android:maxLines="1"-->
+<!--        android:layout_marginRight="19.20dp"-->
+<!--        android:layout_marginEnd="20.00dp"-->
+<!--        android:textColor="@color/colorBlack"-->
+<!--        android:padding="16.80dp"/>-->
+</LinearLayout>
